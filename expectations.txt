@@ -1,0 +1,4 @@
+Joshua Abarro
+CMSC100 - UV1L
+
+Regarding my expectations for CMSC100, I think this course will be enjoyable since web development is the field that I am most interested with and have the most experience with. Having passed CMSC128, I have some experiences with designing the frontend of a website, but not the backend.
